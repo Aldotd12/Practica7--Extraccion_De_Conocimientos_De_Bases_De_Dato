@@ -9,7 +9,7 @@ PRACTICA_7/
 ├── .gitignore
 ├── autos_utos_filtrados.sql
 ├── autos_vehiculos.sql
-├── my_prcatique7.ipynb
+├── Practica7.ipynb
 ├── carga_de_datos.pdf
 └── salaries.csv
 ```
@@ -49,7 +49,7 @@ Por medio de URL se realiza el consumo de una API publica de datos de la pandemi
 
 ## Ejecución y Resultados
 
-- Al ejecutar las celdas del notebook my_practique7.ipynb`, se muestra la carga de los datos al hacer df.head()
+- Al ejecutar las celdas del notebook Practica7.ipynb`, se muestra la carga de los datos al hacer df.head()
     ```
 	id	    marca	    modelo	anio	precio	disponible
 0	1	    Toyota	    Corolla	2018	220000.0	1
