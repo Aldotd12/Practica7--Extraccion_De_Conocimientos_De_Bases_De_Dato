@@ -1,0 +1,3 @@
+# Ignorar archivos csv
+*.csv
+*.qodo
