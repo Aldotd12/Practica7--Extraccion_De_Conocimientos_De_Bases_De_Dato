@@ -51,12 +51,12 @@ Por medio de URL se realiza el consumo de una API publica de datos de la pandemi
 
 - Al ejecutar las celdas del notebook my_practique7.ipynb`, se muestra la carga de los datos al hacer df.head()
     ```
-	id	marca	modelo	anio	precio	disponible
-    0	1	Toyota	Corolla	2018	220000.0	1
-    1	2	Honda	Civic	2020	250000.0	1
-    2	3	Ford	Fiesta	2015	140000.0	0
-    3	4	Nissan	Versa	2019	200000.0	1
-    4	5	Volkswagen	Jetta	2021	280000.0	1
+	id	    marca	    modelo	anio	precio	disponible
+0	1	    Toyota	    Corolla	2018	220000.0	1
+1	2	    Honda	    Civic	2020	250000.0	1
+2	3	    Ford	    Fiesta	2015	140000.0	0
+3	4	    Nissan	    Versa	2019	200000.0	1
+4	5       Volkswagen	Jetta	2021	280000.0	1
 
     ```
 
