@@ -1,16 +1,16 @@
-# PRACTICA_6
+# PRACTICA_7
 
 Este proyecto contiene una práctica de análisis y procesamiento de datos usando Python (Jupyter Notebook), con énfasis en la manipulación de archivos CSV y la integración con bases de datos MySQL.
 
 ## Estructura del Proyecto
 
 ```
-PRACTICA_6/
+PRACTICA_7/
 ├── .gitignore
 ├── autos_utos_filtrados.sql
 ├── autos_vehiculos.sql
-├── my_prcatique6.ipynb
-├── carga_de_datos.docx
+├── my_prcatique7.ipynb
+├── carga_de_datos.pdf
 └── salaries.csv
 ```
 
@@ -49,10 +49,15 @@ Por medio de URL se realiza el consumo de una API publica de datos de la pandemi
 
 ## Ejecución y Resultados
 
-- Al ejecutar las celdas del notebook `Practica_6.ipynb`, se generan los siguientes mensajes de log:
+- Al ejecutar las celdas del notebook my_practique7.ipynb`, se muestra la carga de los datos al hacer df.head()
     ```
-     users_placeholder.csv generado
-     Tabla 'users_api' creada en MySQL
+	id	marca	modelo	anio	precio	disponible
+    0	1	Toyota	Corolla	2018	220000.0	1
+    1	2	Honda	Civic	2020	250000.0	1
+    2	3	Ford	Fiesta	2015	140000.0	0
+    3	4	Nissan	Versa	2019	200000.0	1
+    4	5	Volkswagen	Jetta	2021	280000.0	1
+
     ```
 
 ## Requisitos
